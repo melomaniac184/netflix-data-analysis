@@ -40,21 +40,33 @@ This project explores Netflix’s publicly available dataset to uncover insights
 
 ## 📎 Project Structure
 
+netflix-analysis/
 ├── netflix_analysis.ipynb # Main notebook with analysis and visualizations
 ├── netflix_titles.csv # Dataset
+├── Dashboard.png # Power BI dashboard screenshot
+├── Report_Image.png # Additional Power BI visual/report
 └── README.md # Project overview
 
+
+
+---
+
+## 📊 Power BI Dashboard
+
+To complement the data analysis, I created a Power BI dashboard highlighting key insights:
+
+![Netflix Dashboard](Dashboard.png)
+![Report Overview](Report%20Image.png)
 
 ---
 
 ## 💡 Future Scope
 
-- Build an interactive dashboard using Power BI or Tableau
 - Use NLP to analyze title/description trends
 - Compare Netflix with other streaming platforms
 
 ---
 
-## 🔗 GitHub Repo Link (for interview submission)
+## 🔗 GitHub Repo Link 
 
 [https://github.com/melomaniac184/netflix-data-analysis](https://github.com/melomaniac184/netflix-data-analysis)
